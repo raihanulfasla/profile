@@ -1,0 +1,139 @@
+body{
+    background-color:rgb(71, 2, 71);
+}
+.one{
+    margin-left: 109px;
+    margin-top: 36px;
+}
+
+.main{
+    height: 390px;
+    width: 437px;
+    background-color:rgb(43, 9, 43);
+    margin-left: 206px;
+    padding-left: 54px;
+    padding-right: -18px;
+}
+
+.image img{
+    border-color:  aqua;
+    border-radius: 30px;
+    position: relative;
+    left: 149px;
+    top: 17px;
+    border:3px solid aqua;
+}
+.head{
+    color: white;
+    position: relative;
+    left: 136px;
+
+}
+.head1{
+    color:white;
+    position: relative;
+    left: 149px;
+}
+.para{
+    color: white;
+    position: relative;
+    left: 95px;
+}
+.para1{
+    position: relative;
+    left: 120px;
+    color: white;
+}
+.button1{
+    background-color: rgb(13, 216, 216);
+    border-radius: 10px;
+    height:40px;
+    width: 120px;
+}
+.footh{
+    color: white;
+    margin-top: 12px;
+    margin-left: 10px;
+    padding: 11px;
+}
+   
+
+.button2{
+    border:1px solid rgb(13, 216, 216);
+    border-radius: 10px;
+    color: aqua;
+    background-color:rgb(24, 2, 24);
+    height:40px;
+    width: 120px;
+
+}
+    
+.foot{
+    margin-top: -21px;
+    width: 489px;
+    height: 184px;
+    background-color:rgb(24, 2, 24);
+    margin-left: 207px;
+}
+.form{
+    margin-top: 88px;
+    margin-left: 10px;
+    position: relative;
+    left: 52px;
+}
+.buttona{
+    color: white;
+    width:40px;
+    height:20px;
+    border:.5px solid violet;
+    background-color:rgb(24, 2, 24);
+}
+.buttonb{
+    color: white;
+    width:180px;
+    height:20px;
+    border:.5px solid violet;
+    background-color:rgb(24, 2, 24); 
+}
+.buttonc{
+    color: white;
+    width:40px;
+    height:20px;
+    border:.5px solid violet;
+    background-color:rgb(24, 2, 24);
+}
+.buttond{
+    color: white;
+    width:40px;
+    height:20px;
+    border:.5px solid violet;
+    background-color:rgb(24, 2, 24);
+}
+.buttone{
+    color: white;
+    width:70px;
+    height:20px;
+    border:.5px solid violet;
+    background-color:rgb(24, 2, 24);
+}
+.buttonf{
+    color: white;
+    width:50px;
+    height:20px;
+    border:.5px solid violet;
+    background-color:rgb(24, 2, 24);
+}
+.buttong{
+    color: white;
+    width:50px;
+    height:20px;
+    border:.5px solid violet;
+    background-color:rgb(24, 2, 24);
+}
+.form2{
+    margin-left: 19px;
+}
+
+
+
+
